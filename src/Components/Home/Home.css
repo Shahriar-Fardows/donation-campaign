@@ -1,0 +1,7 @@
+.header{
+    background-image: url('../../assets/home-bd.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    opacity: 0.1;
+};
