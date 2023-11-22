@@ -18,7 +18,6 @@ const CardData = ({searchData}) => {
                 const  totalData= searchValue.length > 0 ? searchValue : data;
                 setSendCardData(totalData)
                 
-                console.log(totalData)
             })
             
     }, [searchData])
